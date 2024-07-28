@@ -11,7 +11,7 @@ public class Main {
 
         boolean tentativa = false;
         int cont = 0;
-        
+
     }
 
     public static void gerenciamento() {
