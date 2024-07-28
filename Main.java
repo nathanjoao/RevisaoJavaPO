@@ -2,8 +2,16 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
+        loginProfessor();
         gerenciamento();
+    }
+
+    public static void loginProfessor(){
+        Professor professor = new Professor();
+
+        boolean tentativa = false;
+        int cont = 0;
+        
     }
 
     public static void gerenciamento() {
