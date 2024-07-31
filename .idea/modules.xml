@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EscolaFormas/EscolaFormas.iml" filepath="$PROJECT_DIR$/EscolaFormas/EscolaFormas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prova74/Prova74.iml" filepath="$PROJECT_DIR$/Prova74/Prova74.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RevisaoJavaPO.iml" filepath="$PROJECT_DIR$/.idea/RevisaoJavaPO.iml" />
     </modules>
   </component>
