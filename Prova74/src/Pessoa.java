@@ -20,6 +20,6 @@ public class Pessoa {
     }
 
     public void botaPetParaDormir(){
-        
+        this.pet.dormir();
     }
 }
